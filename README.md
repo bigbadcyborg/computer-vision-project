@@ -13,7 +13,7 @@ The project is implemented entirely in Jupyter Notebooks, which typically sugges
 
 ### Tools & Frameworks
 - **Programming Language:** Python (within Jupyter Notebook)
-- **Common Libraries (likely used):**
+- ** Libraries used:**
   - **OpenCV:** For real-time computer vision and image processing.
   - **PyTorch or TensorFlow:** For deep learning and object detection.
   - **NumPy/Pandas/Matplotlib:** For data processing and visualization.
