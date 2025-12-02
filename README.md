@@ -36,18 +36,14 @@ The project is implemented entirely in Jupyter Notebooks, which typically sugges
 5. **Traffic Logic:** Based on detections, trigger rules for traffic light control (e.g., stop or allow traffic).
 6. **Visualization:** Display detected objects and their classes on the video/images.
 
-## Results
-While specific experimental results are not detailed in the current README, evaluation in such projects typically includes:
-- **Detection accuracy:** Precision and recall for cars, cats, and dogs.
-- **Traffic control response:** Ability to make correct light-control decisions in real-time.
+## Results 
+[![Click Here to Watch](youtube-vid0-thumbnail.png)](https://www.youtube.com/shorts/zwCudI5t2FY)
+
 
 ## Conclusion
 This project demonstrates the integration of computer vision and machine learning for practical traffic management applications. By identifying moving vehicles and animals, the system can autonomously manage traffic flows, potentially improving safety and efficiency.
 
 ---
-
-For additional information or visualization, see the linked demonstration video in the README:  
-[![Click Here to Watch](youtube-vid0-thumbnail.png)](https://www.youtube.com/shorts/zwCudI5t2FY)
 
 For the actual code, Jupyter Notebooks in the repository provide further explanations and step-by-step implementations
 
